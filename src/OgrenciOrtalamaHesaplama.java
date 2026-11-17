@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class OgrenciOrtalamaHesaplama {
     public static void main(String[] args) {
         int fizik,turkce,mat,kimya,tarih,muzik;
         Scanner input = new Scanner(System.in);

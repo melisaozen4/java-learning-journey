@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class KdvTutariHesaplama {
     public static void main(String[] args) {
 
         //KDV tutarı hesaplayan program
